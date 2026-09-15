@@ -1,0 +1,197 @@
+﻿Barcode_Sample Name,ENA ID,FASTQ file,#NAME,PID,Timepoint,ARV backbone,Base drug,Age,HIV,Ethnicity,Race,Gestational age1/wks,Gravida/number,Previous livebirths/number,Prev still birth/top/mis,Term birth ,GA at delivery/weeks,Mode of delivery,Complication,Obstetric complication ,Maternal commorbidities during pregnancy,CD4 count at screening/cells/mcL,Co medication ,Comedications listed at visit,Current tobacco use,Current Alcohol use,History of Alcohol Excess,Maternal weight at screening /kg,Materal height at screening/cm,Body Mass Index of mother,Neonatal weight at birth/g,Infant dealth
+c120,ERR17389752,Run1_demultiplex.bc1022--bc1096.hifi_reads.fastq.gz,BH02,BH02,1,ABC/3TC,ATV/r,33,PWLWH,Black,BA,22,1,0,0,Y,41.7,V,N,NA,NA,,,,,,,,,,,
+c113,ERR17389752,Run1_demultiplex.bc1022--bc1096.hifi_reads.fastq.gz,BH02,BH02,2,ABC/3TC,ATV/r,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+H117,ERR17389878,Run3_demultiplex.bc1005--bc1075.hifi_reads.fastq.gz,CWH01_17.9.14,CWH01,1,FTC/TDF,DRV/r,29,PWLWH,Black,BC,24,2,0,1,Y,40.1,ECS,no record,no record,no record,508,N,NA,No,No,No,60,166,21.77,2820,Alive
+H112,ERR17389878,Run3_demultiplex.bc1005--bc1075.hifi_reads.fastq.gz,CWH01_8.12.14,CWH01,2,FTC/TDF,DRV/r,,PWLWH,Black,BC,36,,,,,,,,,,,,,,,,,,,,
+H60,ERR17389816,Run2_demultiplex.bc1012--bc1107.hifi_reads.fastq.gz,CWH02_30.9.14,CWH02,1,FTC/TDF,EFV,39,PWLWH,Black,BA,18,2,1,0,Y,40.1,V,N,NA,NA,526,Y,preg multivit,No,No,No,69,170,23.88,3440,Alive
+H115,ERR17389816,Run2_demultiplex.bc1012--bc1107.hifi_reads.fastq.gz,CWH02_19.12.14SWAB,CWH02,2,FTC/TDF,EFV,,PWLWH,Black,BA,29,,,,,,,,,,,,,,,,,,,,
+H27,ERR17389783,Run2_demultiplex.bc1007--bc1076.hifi_reads.fastq.gz,CWH4.6.10.15,CWH04,1,FTC/TDF,RAL,39,PWLWH,White,C,22,1,0,0,Y,39.1,PLCS,N,NA,NA,1152,N,NA,No,No,No,60,167,21.51,4127,Alive
+H42,ERR17389783,Run2_demultiplex.bc1007--bc1076.hifi_reads.fastq.gz,CWH04_17.11.15,CWH04,2,FTC/TDF,RAL,,PWLWH,White,C,29,,,,,,,,,,,,,,,,,,,,
+H37,ERR17389788,Run2_demultiplex.bc1007--bc1110.hifi_reads.fastq.gz,CWH05_6.10.15,CWH05,1,FTC/TDF,EFV,37,PWLWH,Black,BA,22,1,0,0,Y,39,PLCS,Y,breech,N,1011,N,NA,No,No,No,72,160,28.13,3710,Alive
+H99,ERR17389788,Run2_demultiplex.bc1007--bc1110.hifi_reads.fastq.gz,CWH05_17.11.15,CWH05,2,FTC/TDF,EFV,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+H56,ERR17389815,Run2_demultiplex.bc1012--bc1098.hifi_reads.fastq.gz,GKST01_29.7.15,GKST01,1,3TC/ABC,DTG,27,PWLWH,Black,BA,19,3,2,0,Y,38.3,V,N,NA,NA,707,N,NA,No,No,No,55,160,21.48,2365,Alive
+H25,ERR17389815,Run2_demultiplex.bc1012--bc1098.hifi_reads.fastq.gz,GKST01_22.9.15,GKST01,2,3TC/ABC,DTG,,PWLWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+H30,ERR17389785,Run2_demultiplex.bc1007--bc1089.hifi_reads.fastq.gz,GKST02_22.9.15,GKST02,1,FTC/TDF,ATV/r,36,PWLWH,Black,BA,21,2,1,0,Y,39,V,N,NA,NA,657,N,NA,No,No,No,92,172,31.1,3190,Alive
+H38,ERR17389785,Run2_demultiplex.bc1007--bc1089.hifi_reads.fastq.gz,GKST02_5.11.15,GKST02,2,FTC/TDF,ATV/r,,PWLWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+c115,ERR17389749,Run1_demultiplex.bc1020--bc1112.hifi_reads.fastq.gz,GKST4,GKST04,1,FTC/TDF,ATV/r,30,PWLWH,Black,BA,19,3,2,0,Y,39.7,V,N,NA,NA,760,N,NA,No,No,No,78,165,28.65,3100,Alive
+c096,ERR17389749,Run1_demultiplex.bc1020--bc1112.hifi_reads.fastq.gz,GKST04,GKST04,2,FTC/TDF,ATV/r,,PWLWH,Black,BA,25,,,,,,,,,,,,,,,,,,,,
+H177,ERR17389724,Run1_demultiplex.bc1008--bc1107.hifi_reads.fastq.gz,GKST05_17.6.21,GKST05,1,FTC/TDF,RPV,41,PWLWH,White,C,22,3,0,2,Y,40.1,PLCS,N,NA,NA,,,,,,,71,163,26.72,,
+H174,ERR17389724,Run1_demultiplex.bc1008--bc1107.hifi_reads.fastq.gz,GKST5 UNKNOWN_29.7.21,GKST05,2,FTC/TDF,RPV,,PWLWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+H182,ERR17389728,Run1_demultiplex.bc1012--bc1083.hifi_reads.fastq.gz,GKST6_16.9.21,GKST06,1,3TC/ABC,EFV,39,PWLWH,Black,BA,17,7,0,6,Y,39.6,ECS,Y,N,hyperthyroid,539,Y,"thyroxine, 75mcg aspirin, ferrous fumarate, cyclizine",No,No,No,85,169,29.76,3415,Alive
+H163,ERR17389728,Run1_demultiplex.bc1012--bc1083.hifi_reads.fastq.gz,GKST6_11.1.21,GKST06,2,3TC/ABC,EFV,,PWLWH,Black,BA,25,,,,,,,,,,,,,,,,,,,,
+H187,ERR17389731,Run1_demultiplex.bc1012--bc1101.hifi_reads.fastq.gz,GKST7_22.9.22,GKST07,1,FTC/TAF,DTG,22,PWLWH,Black,Mixed,20,1,0,0,N,35,ECS,Y,"macrosomia, polyhydramnios",ptsd,353,Y,"PROMETHAZINE, MIRTAZEPINE, QUEITAPINE, THIAMNIE COLECALCIFEROL, SENNA",No,No,No,62,157,25.15,4310,Alive
+H186,ERR17389731,Run1_demultiplex.bc1012--bc1101.hifi_reads.fastq.gz,GKST7_17.11.22,GKST07,2,FTC/TAF,DTG,,PWLWH,Black,Mixed,28,,,,,,,,,,,,,,,,,,,,
+H125,ERR17389882,Run3_demultiplex.bc1007--bc1057.hifi_reads.fastq.gz,HH01_25.02.14,HH01,1,FTC/TDF,ATV/r,40,PWLWH,Black,BA,20,3,1,1,Y,40.7,PLCS,N,NA,NA,402,N,NA,No,No,No,54,159,21.36,4100,Alive
+H24,ERR17389882,Run3_demultiplex.bc1007--bc1057.hifi_reads.fastq.gz,HH01_15.4.14,HH01,2,FTC/TDF,ATV/r,,PWLWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+H126,ERR17389883,Run3_demultiplex.bc1007--bc1059.hifi_reads.fastq.gz,HH05_28.10.14,HH05,1,FTC/TDF,RAL,34,PWLWH,Black,BA,28,4,1,2,Y,38.1,PLCS,Y,N,"htn, dm",407,N,NA,No,No,No,96.5,167,34.6,3110,Alive
+H108,ERR17389883,Run3_demultiplex.bc1007--bc1059.hifi_reads.fastq.gz,HH05_03/12/2014-V1,HH05,2,FTC/TDF,RAL,,PWLWH,Black,BA,33,,,,,,,,,,,,,,,,,,,,
+c139,ERR17389753,Run1_demultiplex.bc1022--bc1101.hifi_reads.fastq.gz,hh6,HH06,1,FTC/TDF,EFV,31,PWLWH,White,C,20,2,1,0,Y,37.9,ECS,Y,breech,N,513,N,NA,No,No,No,55.2,170,19.1,3020,Alive
+H90,ERR17389753,Run1_demultiplex.bc1022--bc1101.hifi_reads.fastq.gz,HH06_11.11.14,HH06,2,FTC/TDF,EFV,,PWLWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c105,ERR17389743,Run1_demultiplex.bc1020--bc1083.hifi_reads.fastq.gz,HH07,HH07,1,FTC/TDF,RAL,44,PWLWH,Black,BA,22,1,0,0,N,34.7,V,N,NA,NA,,,,,,,59,158,23.63,,
+c140,ERR17389743,Run1_demultiplex.bc1020--bc1083.hifi_reads.fastq.gz,hh7,HH07,2,FTC/TDF,RAL,,PWLWH,Black,BA,30,,,,,,,,,,,,,,,,,,,,
+c110,ERR17389746,Run1_demultiplex.bc1020--bc1100.hifi_reads.fastq.gz,HH10,HH10,1,TDF/3TC,EFV,42,PWLWH,Black,BA,21,7,2,4,Y,39.6,V,N,NA,NA,390,N,NA,No,No,No,66,166,23.95,3030,Alive
+c117,ERR17389746,Run1_demultiplex.bc1020--bc1100.hifi_reads.fastq.gz,HH10,HH10,2,TDF/3TC,EFV,,PWLWH,Black,BA,25,,,,,,,,,,,,,,,,,,,,
+H110,ERR17389874,Run3_demultiplex.bc1005--bc1054.hifi_reads.fastq.gz,HH12_19.2.16,HH12,1,FTC/TDF,DRV/r,40,PWLWH,Black,BA,20,2,1,0,Y,39.9,ECS,Y,N,htn,474,N,NA,No,No,No,67,163,25.22,2870,Alive
+H10,ERR17389874,Run3_demultiplex.bc1005--bc1054.hifi_reads.fastq.gz,HH12_3.5.16,HH12,2,FTC/TDF,DRV/r,,PWLWH,Black,BA,31,,,,,,,,,,,,,,,,,,,,
+H18,ERR17389771,Run2_demultiplex.bc1005--bc1098.hifi_reads.fastq.gz,HH13_10.5.16,HH13,1,FTC/TDF,ATV/r,28,PWLWH,Black,BA,20,2,1,0,Y,39.1,V,Y,PPH,"htn, astham",469,N,NA,No,No,No,78,165,28.65,3180,Alive
+H1,ERR17389771,Run2_demultiplex.bc1005--bc1098.hifi_reads.fastq.gz,HH13_21.6.16,HH13,2,FTC/TDF,ATV/r,,PWLWH,Black,BA,26,,,,,,,,,,,,,,,,,,,,
+H86,ERR17389844,Run2_demultiplex.bc1020--bc1110.hifi_reads.fastq.gz,HH14_3.1.17,HH14,1,3TC/ABC,ATV/r,35,PWLWH,Black,Mixed,21,1,0,0,Y,37.3,V,Y,N,dm,,,,,,,76,162,28.96,,
+H88,ERR17389844,Run2_demultiplex.bc1020--bc1110.hifi_reads.fastq.gz,HH14_21.2.17,HH14,2,3TC/ABC,ATV/r,,PWLWH,Black,Mixed,28,,,,,,,,,,,,,,,,,,,,
+H179,ERR17389725,Run1_demultiplex.bc1008--bc1112.hifi_reads.fastq.gz,HH15_oct 21,HH15,1,FTC/TDF,RAL,35,PWLWH,White,C,18,1,0,0,Y,39.1,V,Y,"IOL for low PAPPA, proteinuria and SROM",N,88,N,NA,No,No,No,104,169,36.41,2480,Alive
+H180,ERR17389725,Run1_demultiplex.bc1008--bc1112.hifi_reads.fastq.gz,HH15_29.12.21,HH15,2,FTC/TDF,RAL,,PWLWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+H176,ERR17389723,Run1_demultiplex.bc1008--bc1101.hifi_reads.fastq.gz,HH16_13.1.22,HH16,1,FTC/TDF,RAL,37,PWLWH,Black,BC,19,8,3,4,Y,38.1,V,Y,prev still birth IOL,"htn, sickle cell",503,N,NA,No,No,No,80,170,27.68,2640,Alive
+H165,ERR17389723,Run1_demultiplex.bc1008--bc1101.hifi_reads.fastq.gz,HH16_29.3.22,HH16,2,FTC/TDF,RAL,,PWLWH,Black,BC,29,,,,,,,,,,,,,,,,,,,,
+D2_269,ERR17389889,Run3_demultiplex.bc1022--bc1107.hifi_reads.fastq.gz,HH18_23/3/23,HH18,1,FTC/TDF,RAL,34,PWLWH,Black,BA,23,4,3,1,N,34.7,ECS,Y,vl 1010 at delivery intensified with Bictarvy,,831,Y,Insulin and aspirin,No,No,No,169,180,52.16,2715,Alive
+D2_268,ERR17389889,Run3_demultiplex.bc1022--bc1107.hifi_reads.fastq.gz,HH18_26/4/23,HH18,2,FTC/TDF,RAL,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+D2_271,ERR17389891,Run3_demultiplex.bc1022--bc1112.hifi_reads.fastq.gz,HH19_5/7/23,HH19,1,FTC/TDF,RAL,36,PWLWH,White,C,23,5,2,2,Y,37.9,PLCS,Y,Breech,GDM,702,Y,"Clexane, aspirin",No,No,No,162,180,50,3280,Alive
+D2_270,ERR17389891,Run3_demultiplex.bc1022--bc1112.hifi_reads.fastq.gz,HH19_15/8/23,HH19,2,FTC/TDF,RAL,,PWLWH,White,C,29,,,,,,,,,,,,,,,,,,,,
+D2_272,ERR17389894,Run3_demultiplex.bc1024--bc1076.hifi_reads.fastq.gz,HH20_8/8/23,HH20,1,FTC/TAF,DTG,34,PWLWH,White,C,25,2,1,0,Y,40.4,V,N,,,983,Y,Antibiotics for UTI ? Cefalexin,No,No,No,170,183,50.76,3680,Alive
+D2_273,ERR17389894,Run3_demultiplex.bc1024--bc1076.hifi_reads.fastq.gz,HH20_5/9/23,HH20,2,FTC/TAF,DTG,,PWLWH,White,C,29,,,,,,,,,,,,,,,,,,,,
+D2_275,ERR17389896,Run3_demultiplex.bc1024--bc1089.hifi_reads.fastq.gz,HH21_2/8/23,HH21,1,FTC/TDF,RPV,39,PWLWH,Black,BA,20,4,0,3,N,34.3,ECS,Y,uncontrolled HTN,HTN,766,Y,"aspirin, clezane, progesterone,amlodipine, bisoprolol",No,No,No,100,178,31.56,1840,Alive
+D2_276,ERR17389896,Run3_demultiplex.bc1024--bc1089.hifi_reads.fastq.gz,HH21_5/9/23,HH21,2,FTC/TDF,RPV,,PWLWH,Black,BA,25,,,,,,,,,,,,,,,,,,,,
+H32,ERR17389786,Run2_demultiplex.bc1007--bc1098.hifi_reads.fastq.gz,LEW01_19.11.15,LEW01,1,3TC/ABC,NVP,28,PWLWH,Black,BA,22,1,0,0,Y,41,ECS,Y,fetal distress,,958,N,NA,No,No,No,66,190,18.28,3300,Alive
+H28,ERR17389786,Run2_demultiplex.bc1007--bc1098.hifi_reads.fastq.gz,LEW1_7.1.16,LEW01,2,3TC/ABC,NVP,,PWLWH,Black,BA,29,,,,,,,,,,,,,,,,,,,,
+H106,ERR17389772,Run2_demultiplex.bc1005--bc1100.hifi_reads.fastq.gz,LEW05_21.1.16,LEW05,1,3TC/ABC,ATV/r,30,PWLWH,Black,BA,22,1,0,0,Y,37.9,ECS,Y,choriomanionitis,N,,,,,,,73,160,28.52,,
+H107,ERR17389772,Run2_demultiplex.bc1005--bc1100.hifi_reads.fastq.gz,LEW.05_3.3.16,LEW05,2,3TC/ABC,ATV/r,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+c141,ERR17389755,Run1_demultiplex.bc1022--bc1107.hifi_reads.fastq.gz,lew6,LEW06,1,FTC/TDF,RPV,35,PWLWH,Black,BA,20,2,1,0,Y,41.1,ECS,Y,fetal distress,N,392,N,NA,No,No,No,99,170,34.26,3760,Alive
+H105,ERR17389755,Run1_demultiplex.bc1022--bc1107.hifi_reads.fastq.gz,LEW06_17.3.16,LEW06,2,FTC/TDF,RPV,,PWLWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+H102,ERR17389867,Run2_demultiplex.bc1024--bc1083.hifi_reads.fastq.gz,LEW07_25.2.16,LEW07,1,3TC/ABC,RAL,36,PWLWH,Black,BA,24,3,2,0,Y,40.3,ECS,N,NA,NA,892,N,NA,No,No,No,117,165,42.98,no record,Alive
+H104,ERR17389867,Run2_demultiplex.bc1024--bc1083.hifi_reads.fastq.gz,LEW07_17.3.16,LEW07,2,3TC/ABC,RAL,,PWLWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+H6,ERR17389861,Run2_demultiplex.bc1024--bc1057.hifi_reads.fastq.gz,LEW08_11.3.16,LEW08,1,FTC/TDF,RPV,35,PWLWH,Black,BC,22,3,2,0,Y,39.3,V,Y,N,Diabetes,942,N,NA,No,No,No,110,165,40.4,3520,Alive
+H9,ERR17389861,Run2_demultiplex.bc1024--bc1057.hifi_reads.fastq.gz,LEW08_5.5.16,LEW08,2,FTC/TDF,RPV,,PWLWH,Black,BC,29,,,,,,,,,,,,,,,,,,,,
+H13,ERR17389768,Run2_demultiplex.bc1005--bc1083.hifi_reads.fastq.gz,LEW13_5.9.16,LEW13,1,FTC/TDF,EFV,41,PWLWH,Black,BA,21,8,4,3,N,31.6,V,N,"cyclogest, past prem",,483,N,NA,No,No,No,,177,,4056,Alive
+H16,ERR17389768,Run2_demultiplex.bc1005--bc1083.hifi_reads.fastq.gz,LEW13_20.10.16,LEW13,2,FTC/TDF,EFV,,PWLWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+H82,ERR17389841,Run2_demultiplex.bc1020--bc1100.hifi_reads.fastq.gz,LEW14_5.1.17,LEW14,1,3TC/ABC,ATV/r,37,PWLWH,Black,BA,27,3,2,1,Y,38.3,ECS,no record,no record,no record,,,,,,,82,165,30.12,,
+H81,ERR17389841,Run2_demultiplex.bc1020--bc1100.hifi_reads.fastq.gz,LEW14_2.2.17,LEW14,2,3TC/ABC,ATV/r,,PWLWH,Black,BA,31,,,,,,,,,,,,,,,,,,,,
+H124,ERR17389881,Run3_demultiplex.bc1007--bc1056.hifi_reads.fastq.gz,LEW15_3.4.17,LEW15,1,FTC/TDF,RAL,37,PWLWH,Black,BA,20,2,1,0,Y,41,,Y,abnormal lie,N,421,N,NA,No,No,No,67,166,24.31,no record,Alive
+c101,ERR17389881,Run3_demultiplex.bc1007--bc1056.hifi_reads.fastq.gz,LEW15,LEW15,2,FTC/TDF,RAL,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+H168,ERR17389719,Run1_demultiplex.bc1008--bc1076.hifi_reads.fastq.gz,LEW16_18.5.21,LEW16,1,FTC/TDF,DRV/r,46,PWLWH,Black,BA,24,5,2,2,N,28,ECS,Y,"PREM, no details",N,340,N,NA,No,No,No,80,164,29.74,no record,Alive
+H169,ERR17389719,Run1_demultiplex.bc1008--bc1076.hifi_reads.fastq.gz,LEW16_6.7.21,LEW16,2,FTC/TDF,DRV/r,,PWLWH,Black,BA,31,,,,,,,,,,,,,,,,,,,,
+H109,ERR17389873,Run3_demultiplex.bc1005--bc1045.hifi_reads.fastq.gz,NMH02_4.4.17,NMUH02,1,3TC/ABC,DRV/r,36,PWLWH,Black,BC,20,2,1,0,IUD,39.3,,Y,IUD ,Ulcerative colitis,480,Y,prednisolone,No,No,No,,,,no record,IUD @term
+c109,ERR17389873,Run3_demultiplex.bc1005--bc1045.hifi_reads.fastq.gz,NMUH02,NMUH02,2,3TC/ABC,DRV/r,,PWLWH,Black,BC,28,,,,,,,,,,,,,,,,,,,,
+c099,ERR17389739,Run1_demultiplex.bc1015--bc1105.hifi_reads.fastq.gz,NMUH03,NMUH03,1,FTC/TDF,RAL,26,PWLWH,Black,BA,21,1,0,0,,no record,no record,no record,no record,no record,534,N,NA,No,No,No,61,166,22.14,no record,Alive
+c093,ERR17389739,Run1_demultiplex.bc1015--bc1105.hifi_reads.fastq.gz,NMUH03,NMUH03,2,FTC/TDF,RAL,,PWLWH,Black,BA,26,,,,,,,,,,,,,,,,,,,,
+H94,ERR17389855,Run2_demultiplex.bc1022--bc1100.hifi_reads.fastq.gz,NWP02_24.11.14,NWP02,1,unknown,ATV/r,28,PWLWH,Black,BA,19,2,1,0,N,34.7,V,N,NA,NA,819,N,NA,No,No,No,48.8,152,21.12,2160,Alive
+H121,ERR17389855,Run2_demultiplex.bc1022--bc1100.hifi_reads.fastq.gz,NWP02_27.1.15,NWP02,2,unknown,ATV/r,,PWLWH,Black,BA,29,,,,,,,,,,,,,,,,,,,,
+H78,ERR17389838,Run2_demultiplex.bc1020--bc1083.hifi_reads.fastq.gz,NWP04_1.6.15,NWP04,1,3TC/ABC,NVP,41,PWLWH,Black,BA,20,19,4,14,Y,38.4,PLCS,Y,Postpartum haemorrhage,HTN,490,N,NA,No,No,No,140,167,50.2,2240,Alive
+H91,ERR17389838,Run2_demultiplex.bc1020--bc1083.hifi_reads.fastq.gz,NWP04_7.7.15,NWP04,2,3TC/ABC,NVP,,PWLWH,Black,BA,25,,,,,,,,,,,,,,,,,,,,
+H47,ERR17389803,Run2_demultiplex.bc1008--bc1105.hifi_reads.fastq.gz,NWP05_2.6.15,NWP05,1,3TC/ABC,NVP,27,PWLWH,White,C,20,2,1,0,Y,38.3,PLCS,Y,fulminating cholestasis,fulminating cholestasis,676,N,NA,No,No,No,83.5,176,26.96,no record,Alive
+H75,ERR17389803,Run2_demultiplex.bc1008--bc1105.hifi_reads.fastq.gz,NWP05_30.6.15,NWP05,2,3TC/ABC,NVP,,PWLWH,White,C,24,,,,,,,,,,,,,,,,,,,,
+H2,ERR17389860,Run2_demultiplex.bc1024--bc1045.hifi_reads.fastq.gz,NWP06_3.6.16,NWP06,1,FTC/TDF,DRV/r,26,PWLWH,White,C,22,1,0,0,Y,37.1,PLCS,Y,N,Hep B,531,N,NA,No,No,No,60,158,24.03,2970,Alive
+H45,ERR17389860,Run2_demultiplex.bc1024--bc1045.hifi_reads.fastq.gz,NWP06_18.7.16,NWP06,2,FTC/TDF,DRV/r,,PWLWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c124,ERR17389845,Run2_demultiplex.bc1022--bc1035.hifi_reads.fastq.gz,SMH 2,SMH02,1,NA,NA,29,PWWH,White,C,20,1,0,0,Y,41.1,V,N,NA,NA,NA,N,NA,No,No,No,67,178,21.15,3500,Alive
+c126,ERR17389845,Run2_demultiplex.bc1022--bc1035.hifi_reads.fastq.gz,SMH 2,SMH02,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c010,ERR17389761,Run2_demultiplex.bc1005--bc1045.hifi_reads.fastq.gz,s3,SMH03,1,NA,NA,26,PWWH,White,C,21,2,0,1,Y,39.1,V,N,NA,NA,NA,N,NA,No,No,No,69,175,22.53,3200,Alive
+c045,ERR17389761,Run2_demultiplex.bc1005--bc1045.hifi_reads.fastq.gz,s3,SMH03,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c005,ERR17389756,Run1_demultiplex.bc1024--bc1096.hifi_reads.fastq.gz,s5,SMH05,1,NA,NA,25,PWWH,White,C,20,1,0,0,Y,41,V,N,NA,NA,NA,N,NA,No,No,No,62,167,22.23,3200,Alive
+c022,ERR17389756,Run1_demultiplex.bc1024--bc1096.hifi_reads.fastq.gz,s5,SMH05,2,NA,NA,,PWWH,White,C,27,,,,,,,,,,,,,,,,,,,,
+c079,ERR17389831,Run2_demultiplex.bc1020--bc1054.hifi_reads.fastq.gz,s7,SMH07,1,NA,NA,33,PWWH,White,C,21,1,0,0,Y,39.3,PLCS,N,NA,NA,NA,Y,"Cefalexin, ranitidine, colecalciferol",No,No,No,65.4,163,24.62,2830,Alive
+c080,ERR17389831,Run2_demultiplex.bc1020--bc1054.hifi_reads.fastq.gz,s7,SMH07,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c028,ERR17389780,Run2_demultiplex.bc1007--bc1054.hifi_reads.fastq.gz,s9_,SMH09,1,NA,NA,30,PWWH,White,C,21,2,1,0,Y,40.7,V,N,NA,NA,NA,Y,folic acid,Yes,No,No,63,170,21.8,3100,Alive
+c043,ERR17389780,Run2_demultiplex.bc1007--bc1054.hifi_reads.fastq.gz,s9_,SMH09,2,NA,NA,,PWWH,White,C,29,,,,,,,,,,,,,,,,,,,,
+c046,ERR17389796,Run2_demultiplex.bc1008--bc1062.hifi_reads.fastq.gz,s11,SMH11,1,NA,NA,34,PWWH,White,C,21,3,1,1,Y,40,V,N,NA,NA,NA,N,NA,No,No,No,62,181,18.92,no record,Alive
+c021,ERR17389796,Run2_demultiplex.bc1008--bc1062.hifi_reads.fastq.gz,s11,SMH11,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c081,ERR17389833,Run2_demultiplex.bc1020--bc1057.hifi_reads.fastq.gz,s13,SMH13,1,NA,NA,35,PWWH,White,C,20,5,2,2,Y,39.7,V,N,NA,NA,NA,N,NA,No,No,No,65,146,30.49,3300,Alive
+c041,ERR17389833,Run2_demultiplex.bc1020--bc1057.hifi_reads.fastq.gz,s13,SMH13,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c019,ERR17389763,Run2_demultiplex.bc1005--bc1060.hifi_reads.fastq.gz,s17,SMH17,1,NA,NA,29,PWWH,White,C,23,1,0,0,Y,40.4,V,N,NA,NA,NA,Y,vitamins,No,No,No,50,166,18.14,3000,Alive
+c038,ERR17389763,Run2_demultiplex.bc1005--bc1060.hifi_reads.fastq.gz,s17,SMH17,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c082,ERR17389834,Run2_demultiplex.bc1020--bc1059.hifi_reads.fastq.gz,s18,SMH18,1,NA,NA,26,PWWH,White,C,20,2,1,0,Y,39.1,PLCS,N,NA,NA,NA,N,NA,No,No,No,60.2,163,22.66,3200,Alive
+c049,ERR17389834,Run2_demultiplex.bc1020--bc1059.hifi_reads.fastq.gz,s18,SMH18,2,NA,NA,,PWWH,White,C,27,,,,,,,,,,,,,,,,,,,,
+c083,ERR17389835,Run2_demultiplex.bc1020--bc1060.hifi_reads.fastq.gz,s19,SMH19,1,NA,NA,32,PWWH,White,C,21,1,0,0,Y,41.6,V,Y,IUGR,N,NA,N,NA,No,No,No,74,175,24.16,3200,Alive
+c037,ERR17389835,Run2_demultiplex.bc1020--bc1060.hifi_reads.fastq.gz,s19,SMH19,2,NA,NA,,PWWH,White,C,27,,,,,,,,,,,,,,,,,,,,
+c009,ERR17389760,Run2_demultiplex.bc1005--bc1044.hifi_reads.fastq.gz,s20,SMH20,1,NA,NA,34,PWWH,White,C,21,1,0,0,N,36.4,V,Y,PPROM induction,N,NA,Y,"folic acid, t4",No,No,No,73.4,170,25.4,no record,Alive
+c053,ERR17389760,Run2_demultiplex.bc1005--bc1044.hifi_reads.fastq.gz,s20,SMH20,2,NA,NA,,PWWH,White,C,31,,,,,,,,,,,,,,,,,,,,
+c007,ERR17389759,Run2_demultiplex.bc1005--bc1033.hifi_reads.fastq.gz,s21,SMH21,1,NA,NA,32,PWWH,White,C,19,2,1,0,Y,39.1,V,N,NA,NA,NA,N,NA,No,No,No,53,157,21.5,3100,Alive
+c042,ERR17389759,Run2_demultiplex.bc1005--bc1033.hifi_reads.fastq.gz,s21,SMH21,2,NA,NA,,PWWH,White,C,27,,,,,,,,,,,,,,,,,,,,
+c029,ERR17389781,Run2_demultiplex.bc1007--bc1056.hifi_reads.fastq.gz,s22,SMH22,1,NA,NA,34,PWWH,White,C,20,1,0,0,Y,40.4,V,N,NA,NA,NA,N,NA,No,No,No,63,168,22.32,3800,Alive
+c048,ERR17389781,Run2_demultiplex.bc1007--bc1056.hifi_reads.fastq.gz,s22,SMH22,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c026,ERR17389779,Run2_demultiplex.bc1007--bc1045.hifi_reads.fastq.gz,s24,SMH24,1,NA,NA,36,PWWH,White,C,21,1,0,0,Y,41.3,V,Y,Posterior lie,N,NA,N,NA,No,No,No,57.2,166,20.76,3550,Alive
+c056,ERR17389779,Run2_demultiplex.bc1007--bc1045.hifi_reads.fastq.gz,s24,SMH24,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c025,ERR17389778,Run2_demultiplex.bc1007--bc1044.hifi_reads.fastq.gz,s26,SMH26,1,NA,NA,34,PWWH,White,C,21,2,0,1,Y,39.7,V,N,NA,NA,NA,N,NA,No,No,No,65.4,160,25.55,3400,Alive
+c064,ERR17389778,Run2_demultiplex.bc1007--bc1044.hifi_reads.fastq.gz,s26,SMH26,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c024,ERR17389777,Run2_demultiplex.bc1007--bc1035.hifi_reads.fastq.gz,s27,SMH27,1,NA,NA,34,PWWH,White,C,20,3,1,1,Y,38.1,V,N,NA,NA,NA,N,NA,No,No,No,55.8,169,19.54,3100,Alive
+c059,ERR17389777,Run2_demultiplex.bc1007--bc1035.hifi_reads.fastq.gz,s27,SMH27,2,NA,NA,,PWWH,White,C,29,,,,,,,,,,,,,,,,,,,,
+c055,ERR17389808,Run2_demultiplex.bc1012--bc1056.hifi_reads.fastq.gz,s31,SMH31,1,NA,NA,34,PWWH,Black,BA,20,1,0,0,N,35.6,ECS,Y,"Induced for IUGR, then fetal distress",N,NA,N,NA,No,No,No,58,166,21.05,2000,Alive
+c077,ERR17389808,Run2_demultiplex.bc1012--bc1056.hifi_reads.fastq.gz,s31,SMH31,2,NA,NA,,PWWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+c058,ERR17389810,Run2_demultiplex.bc1012--bc1060.hifi_reads.fastq.gz,s33,SMH33,1,NA,NA,20,PWWH,White,C,20,2,0,1,Y,39.4,V,N,NA,NA,NA,N,NA,No,No,No,56.8,163,21.38,no record,Alive
+c076,ERR17389810,Run2_demultiplex.bc1012--bc1060.hifi_reads.fastq.gz,s33,SMH33,2,NA,NA,,PWWH,White,C,27,,,,,,,,,,,,,,,,,,,,
+c054,ERR17389807,Run2_demultiplex.bc1012--bc1054.hifi_reads.fastq.gz,s34,SMH34,1,NA,NA,37,PWWH,White,C,19,2,0,1,Y,41,V,Y,instrumentation,N,NA,N,NA,No,No,No,68.8,170,23.81,3700,Alive
+c132,ERR17389807,Run2_demultiplex.bc1012--bc1054.hifi_reads.fastq.gz,SMH 34,SMH34,2,NA,NA,,PWWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c072,ERR17389820,Run2_demultiplex.bc1015--bc1062.hifi_reads.fastq.gz,s35,SMH35,1,NA,NA,27,PWWH,Black,Mixed,22,2,1,0,Y,39.1,V,Y,induction,N,NA,N,NA,No,No,No,104,175,33.96,3500,Alive
+c075,ERR17389820,Run2_demultiplex.bc1015--bc1062.hifi_reads.fastq.gz,s35,SMH35,2,NA,NA,,PWWH,Black,Mixed,27,,,,,,,,,,,,,,,,,,,,
+c065,ERR17389819,Run2_demultiplex.bc1015--bc1044.hifi_reads.fastq.gz,s37,SMH37,1,NA,NA,20,PWWH,Black,BA,22,1,0,0,Y,41.7,V,Y,induction,N,NA,,,,,,63,178,19.88,,
+c074,ERR17389819,Run2_demultiplex.bc1015--bc1044.hifi_reads.fastq.gz,s37,SMH37,2,NA,NA,,PWWH,Black,BA,28,,,,,,,,,,,,,No,No,No,,,,no record,Alive
+H93,ERR17389854,Run2_demultiplex.bc1022--bc1098.hifi_reads.fastq.gz,SMH45 24.11.14-record in book smh45 24.11.14 andH93,SMH45,1,3TC/ABC,DRV/r,34,PWLWH,Black,BA,23,3,2,0,N,34.9,ECS,Y,fetal distress,N,541,Y,aspirin,No,No,No,61,158,24.44,2200,Alive
+H127,ERR17389854,Run2_demultiplex.bc1022--bc1098.hifi_reads.fastq.gz,SMH45_5.1.15,SMH45,2,3TC/ABC,DRV/r,,PWLWH,Black,BA,29,,,,,,,,,,,,,,,,,,,,
+c106,ERR17389744,Run1_demultiplex.bc1020--bc1089.hifi_reads.fastq.gz,SMH46_4.11.14 -V1,SMH46,1,FTC/TDF,EFV,36,PWLWH,Black,BA,21,4,2,1,Y,39,PLCS,N,NA,NA,918,N,NA,No,No,No,77,164,28.63,no record,Alive
+H89,ERR17389744,Run1_demultiplex.bc1020--bc1089.hifi_reads.fastq.gz,SMH46_22.12.14,SMH46,2,FTC/TDF,EFV,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+H122,ERR17389880,Run3_demultiplex.bc1007--bc1045.hifi_reads.fastq.gz,SMH47_5.1.15,SMH47,1,FTC/TDF,EFV,35,PWLWH,Black,BA,21,3,2,0,N,36.9,ECS,Y,reduced fetal movement,fibroids,501,N,NA,No,No,No,61,165,22.41,2100,Alive
+H54,ERR17389880,Run3_demultiplex.bc1007--bc1045.hifi_reads.fastq.gz,SMH47_9.3.15,SMH47,2,FTC/TDF,EFV,,PWLWH,Black,BA,30,,,,,,,,,,,,,,,,,,,,
+H113,ERR17389876,Run3_demultiplex.bc1005--bc1059.hifi_reads.fastq.gz,SMH48_12.1.15 -V1,SMH48,1,FTC/TDF,ATV/r,35,PWLWH,Black,BA,21,1,0,0,,no record,no record,no record,no record,no record,688,N,NA,No,No,No,62,158,24.84,no record,Alive
+H72,ERR17389876,Run3_demultiplex.bc1005--bc1059.hifi_reads.fastq.gz,SMH48_9.3.15,SMH48,2,FTC/TDF,ATV/r,,PWLWH,Black,BA,29,,,,,,,,,,,,,,,,,,,,
+H79,ERR17389839,Run2_demultiplex.bc1020--bc1089.hifi_reads.fastq.gz,SMH49_24.4.15,SMH49,1,FTC/TDF,ATV/r,21,PWLWH,Black,BA,20,1,0,0,Y,39.3,V,N,NA,NA,874,N,NA,No,No,No,60,165,22.04,3200,Alive
+H74,ERR17389839,Run2_demultiplex.bc1020--bc1089.hifi_reads.fastq.gz,SMH49_18.5.15,SMH49,2,FTC/TDF,ATV/r,,PWLWH,Black,BA,23,,,,,,,,,,,,,,,,,,,,
+H77,ERR17389837,Run2_demultiplex.bc1020--bc1082.hifi_reads.fastq.gz,SMH50_27.4.15,SMH50,1,FTC/TDF,DRV/r,42,PWLWH,White,C,19,1,0,0,Y,40.4,ECS,Y,fetal distress,N,951,N,NA,No,No,No,61,168,21.61,3300,Alive
+H53,ERR17389837,Run2_demultiplex.bc1020--bc1082.hifi_reads.fastq.gz,SMH50_6.7.15,SMH50,2,FTC/TDF,DRV/r,,PWLWH,White,C,29,,,,,,,,,,,,,,,,,,,,
+H48,ERR17389804,Run2_demultiplex.bc1008--bc1107.hifi_reads.fastq.gz,SMH51_27.4.15,SMH51,1,3TC/ABC,EFV,34,PWLWH,Black,BA,21,1,0,0,Y,37.6,ECS,Y,maternal haemorrhage,GDM,689,N,NA,No,No,No,68,158,27.24,2600,Alive
+H70,ERR17389804,Run2_demultiplex.bc1008--bc1107.hifi_reads.fastq.gz,SMH51_14.6.15,SMH51,2,3TC/ABC,EFV,,PWLWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+H76,ERR17389836,Run2_demultiplex.bc1020--bc1076.hifi_reads.fastq.gz,SMH52_8.9.15,SMH52,1,3TC/ABC,NVP,32,PWLWH,Black,BA,21,1,0,0,Y,41.3,V,N,NA,NA,721,N,NA,No,No,No,68,168,24.09,3700,Alive
+H39,ERR17389836,Run2_demultiplex.bc1020--bc1076.hifi_reads.fastq.gz,SMH52_28.9.15,SMH52,2,3TC/ABC,NVP,,PWLWH,Black,BA,24,,,,,,,,,,,,,,,,,,,,
+H40,ERR17389799,Run2_demultiplex.bc1008--bc1082.hifi_reads.fastq.gz,SMH53_21.9.15,SMH53,1,FTC/TDF,EFV,31,PWLWH,White,C,20,1,0,0,Y,41.7,ECS,Y,maternal haemorrhage,N,718,N,NA,No,No,No,62,171,21.2,2980,Alive
+H35,ERR17389799,Run2_demultiplex.bc1008--bc1082.hifi_reads.fastq.gz,SMH53_16.11.15,SMH53,2,FTC/TDF,EFV,,PWLWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+c136,ERR17389857,Run2_demultiplex.bc1024--bc1033.hifi_reads.fastq.gz,S55_V2 ,SMH55,1,NA,NA,30,PWWH,Black,BA,23,3,0,2,Y,37,PLCS,N,NA,NA,NA,NA,N,NA,Yes,No,80,168,28.34,2800,Alive
+c137,ERR17389857,Run2_demultiplex.bc1024--bc1033.hifi_reads.fastq.gz,S55,SMH55,2,NA,NA,,PWWH,Black,BA,30,,,,,,,,,,,,,,,,,,,,
+H46,ERR17389802,Run2_demultiplex.bc1008--bc1101.hifi_reads.fastq.gz,SMH56_26.7.16,SMH56,1,FTC/TDF,EFV,29,PWLWH,Black,BA,21,1,0,0,Y,41.1,ECS,Y,no details,N,749,N,NA,No,No,No,56,162,21.34,3000,Alive
+H15,ERR17389802,Run2_demultiplex.bc1008--bc1101.hifi_reads.fastq.gz,SMH56_12.9.16,SMH56,2,FTC/TDF,EFV,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+H21,ERR17389773,Run2_demultiplex.bc1005--bc1101.hifi_reads.fastq.gz,SMH57_8.8.16,SMH57,1,3TC/ABC/ZDV,,37,PWLWH,Black,BA,21,4,3,0,Y,38.3,PLCS,N,NA,NA,382,N,NA,No,No,No,81,156,33.28,2700,Alive
+H12,ERR17389773,Run2_demultiplex.bc1005--bc1101.hifi_reads.fastq.gz,SMH57_7.9.16,SMH57,2,3TC/ABC/ZDV,,,PWLWH,Black,BA,25,,,,,,,,,,,,,,,,,,,,
+c131,ERR17389848,Run2_demultiplex.bc1022--bc1062.hifi_reads.fastq.gz,SMH 58,SMH58,1,NA,NA,34,PWWH,Black,Mixed,20,2,1,0,Y,39.1,V,N,NA,NA,NA,,,No,No,No,70,171,23.94,3300,Alive
+c134,ERR17389848,Run2_demultiplex.bc1022--bc1062.hifi_reads.fastq.gz,SMH 58,SMH58,2,NA,NA,,PWWH,Black,Mixed,29,,,,,,,,,,,,,,,,,,,,
+H83,ERR17389842,Run2_demultiplex.bc1020--bc1101.hifi_reads.fastq.gz,SMH61_20.2.17,SMH61,1,3TC/ABC/ZDV,,40,PWLWH,Black,BA,21,3,2,0,Y,37,ECS,Y,"Raised UPCR, formulating PET","Raised UPCR, formulating PET",962,N,NA,No,No,No,72,160,28.13,3080,Alive
+c095,ERR17389842,Run2_demultiplex.bc1020--bc1101.hifi_reads.fastq.gz,s61,SMH61,2,3TC/ABC/ZDV,,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+H84,ERR17389843,Run2_demultiplex.bc1020--bc1105.hifi_reads.fastq.gz,SMH62_13.3.17,SMH62,1,FTC/TDF,EFV,38,PWLWH,Black,Mixed,20,4,1,2,Y,39.3,V,N,NA,NA,1119,N,NA,No,No,No,93,162,35.44,2700,Alive
+c119,ERR17389843,Run2_demultiplex.bc1020--bc1105.hifi_reads.fastq.gz,SMH62,SMH62,2,FTC/TDF,EFV,,PWLWH,Black,Mixed,26,,,,,,,,,,,,,,,,,,,,
+c114,ERR17389748,Run1_demultiplex.bc1020--bc1110.hifi_reads.fastq.gz,SMH63,SMH63,1,FTC/TDF,MRV,37,PWLWH,Black,BA,20,3,2,0,Y,39.1,PLCS,N,NA,NA,594,Y,"Citalopram, Olanzepine",No,No,No,59,161,22.76,3495,Alive
+c016,ERR17389748,Run1_demultiplex.bc1020--bc1110.hifi_reads.fastq.gz,smh63,SMH63,2,FTC/TDF,MRV,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+c100,ERR17389740,Run1_demultiplex.bc1015--bc1107.hifi_reads.fastq.gz,s64,SMH64,1,FTC/TDF,ATV/r,27,PWLWH,Black,BA,20,3,2,0,N,36.3,ECS,Y,"SROM, past CS x2",Sickle trait,741,N,NA,No,No,No,82,163,30.86,2825,Alive
+c089,ERR17389740,Run1_demultiplex.bc1015--bc1107.hifi_reads.fastq.gz,s64,SMH64,2,FTC/TDF,ATV/r,,PWLWH,Black,BA,26,,,,,,,,,,,,,,,,,,,,
+c090,ERR17389734,Run1_demultiplex.bc1012--bc1112.hifi_reads.fastq.gz,s65,SMH65,1,3TC/ABC,EFV,36,PWLWH,Black,BA,21,3,2,0,N,41.4,V,N,NA,NA,502,N,NA,No,No,No,63,168,22.32,3350,Alive
+c097,ERR17389734,Run1_demultiplex.bc1012--bc1112.hifi_reads.fastq.gz,s65,SMH65,2,3TC/ABC,EFV,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+D2_261,ERR17389886,Run3_demultiplex.bc1022--bc1083.hifi_reads.fastq.gz,SMH66_12/12/19,SMH66,1,FTC/TDF,EFV,31,PWLWH,White,C,18,1,0,0,Y,39,PLCS,N,NA,NA,689,<20,N,NA,No,No,62,160,24.22,2690,Alive
+H181,ERR17389886,Run3_demultiplex.bc1022--bc1083.hifi_reads.fastq.gz,SMH66_27.1.20_date was 26/7/21  but no ANC then,SMH66,2,FTC/TDF,EFV,,PWLWH,White,C,25,,,,,,,,,,,,,,,,,,,,
+H147,ERR17389708,Run1_demultiplex.bc1005--bc1089.hifi_reads.fastq.gz,SMH068_23/08/2021,SMH68,1,FTC/TDF,DTG,23,PWLWH,White,C,22,1,0,0,Y,40,V,N,NA,NA,53,Y,septrin,No,No,No,51,168,18.07,3130,Alive
+H149,ERR17389708,Run1_demultiplex.bc1005--bc1089.hifi_reads.fastq.gz,SMH68_4.10.21,SMH68,2,FTC/TDF,DTG,,PWLWH,White,C,28,,,,,,,,,,,,,,,,,,,,
+H183,ERR17389729,Run1_demultiplex.bc1012--bc1089.hifi_reads.fastq.gz,SMH69_18.10.21,SMH69,1,FTC/TDF,RAL,38,PWLWH,Black,Mixed,17,1,0,0,Y,40.6,ECS,Y,failure to progress,N,599,N,NA,No,No,No,77,174,25.43,3720,Alive
+H150,ERR17389729,Run1_demultiplex.bc1012--bc1089.hifi_reads.fastq.gz,SMH69_10.1.22,SMH69,2,FTC/TDF,RAL,,PWLWH,Black,Mixed,29,,,,,,,,,,,,,,,,,,,,
+H154,ERR17389711,Run1_demultiplex.bc1005--bc1110.hifi_reads.fastq.gz,SMH71_13.3.22,SMH71,1,3TC/ABC,DTG,24,PWLWH,Black,BA,23,1,0,0,Y,39.7,V,N,NA,NA,,,,,,,56,165,20.57,,
+H155,ERR17389711,Run1_demultiplex.bc1005--bc1110.hifi_reads.fastq.gz,SMH71_25.5.22,SMH71,2,3TC/ABC,DTG,,PWLWH,Black,BA,33,,,,,,,,,,,,,,,,,,,,
+H157,ERR17389713,Run1_demultiplex.bc1007--bc1082.hifi_reads.fastq.gz,SMH72_21.2.22,SMH72,1,FTC/TDF,RPV,31,PWLWH,White,C,20,5,1,3,Y,38.9,PLCS,N,NA,NA,523,<20,N,NA,No,No,59,160,23.05,3580,Alive
+H158,ERR17389713,Run1_demultiplex.bc1007--bc1082.hifi_reads.fastq.gz,SMH72_25.4.22,SMH72,2,FTC/TDF,RPV,,PWLWH,White,C,29,,,,,,,,,,,,,,,,,,,,
+H160,ERR17389715,Run1_demultiplex.bc1007--bc1096.hifi_reads.fastq.gz,SMH73_17.3.22,SMH73,1,NA,NA,33,PWWH,Black,BC,25,1,0,0,Y,40.6,V,N,NA,NA,NA,Y,"sytron, symbocort",No,No,No,69,157,27.99,3160,Alive
+H161,ERR17389715,Run1_demultiplex.bc1007--bc1096.hifi_reads.fastq.gz,SMH73_25.4.22,SMH73,2,NA,NA,,PWWH,Black,BC,34,,,,,,,,,,,,,,,,,,,,
+H171,ERR17389721,Run1_demultiplex.bc1008--bc1089.hifi_reads.fastq.gz,SMH83_23.11.22,SMH83,1,NA,NA,27,PWWH,Black,BA,16,5,3,1,Y,41,V,N,NA,NA,NA,N,NA,No,No,No,72,173,24.06,3420,Alive
+4,ERR17389721,Run1_demultiplex.bc1008--bc1089.hifi_reads.fastq.gz,SMH83_10/1/23,SMH83,2,NA,NA,,PWWH,Black,BA,23,,,,,,,,,,,,,,,,,,,,
+33,ERR17389920,Run4_demultiplex.bc1015--bc1083.hifi_reads.fastq.gz,SMH84swab_16/1/23,SMH84,1,NA,NA,31,PWWH,Black,BA,20,7,5,1,Y,40.3,ECS,Y,FD,Sickle trait,NA,N,NA,Yes,No,No,81,164,30.12,3200,Alive
+5,ERR17389920,Run4_demultiplex.bc1015--bc1083.hifi_reads.fastq.gz,SMH84_23/3/23,SMH84,2,NA,NA,,PWWH,Black,BA,30,,,,,,,,,,,,,,,,,,,,
+6,ERR17389903,Run4_demultiplex.bc1007--bc1112.hifi_reads.fastq.gz,SMH85_3/4/23,SMH85,2,FTC/TDF,EFV,33,PWLWH,Black,BA,26,4,1,2,Y,39.3,PLCS,N,NA,NA,,,,,,,56,163,21.08,,
+7,ERR17389903,Run4_demultiplex.bc1007--bc1112.hifi_reads.fastq.gz,SMH85_23/1/23,SMH85,1,FTC/TDF,EFV,,PWLWH,Black,BA,16,4,1,2,Y,39.3,PLCS,N,NA,NA,1059,N,NA,No,No,No,,,,3570,Alive
+9,ERR17389906,Run4_demultiplex.bc1008--bc1083.hifi_reads.fastq.gz,SMH86_20/3/23,SMH86,1,FTC/TAF,DTG,26,PWLWH,White,C,17,1,0,0,Y,38.7,V,N,IOL for reduced FM,N,467,Y,folic acid vit D,No,No,No,86,164,31.98,3420,Alive
+8,ERR17389906,Run4_demultiplex.bc1008--bc1083.hifi_reads.fastq.gz,SMH86_12/6/23,SMH86,2,FTC/TAF,DTG,,PWLWH,White,C,29,,,,,,,,,,,,,,,,,,,,
+11,ERR17389908,Run4_demultiplex.bc1008--bc1096.hifi_reads.fastq.gz,SMH87_15/5/23,SMH87,1,FTC/TAF,BIC,28,PWLWH,Black,BA,19,3,2,0,Y,39,PLCS,N,NA,NA,192,<140,N,NA,Yes,No,77,163,28.98,2730,Alive
+10,ERR17389908,Run4_demultiplex.bc1008--bc1096.hifi_reads.fastq.gz,SMH87_17/7/23,SMH87,2,FTC/TAF,BIC,,PWLWH,Black,BA,28,,,,,,,,,,,,,,,,,,,,
+13,ERR17389909,Run4_demultiplex.bc1008--bc1100.hifi_reads.fastq.gz,SMH88_15/5/23,SMH88,1,FTC/TDF,DRV/r,35,PWLWH,Black,BC,19,2,1,0,Y,40,V,N,NA,NA,458,<20,Y,Ferrous Sulphate,No,No,87,173,29.07,3209,Alive
+14,ERR17389909,Run4_demultiplex.bc1008--bc1100.hifi_reads.fastq.gz,SMH88_31/7/23,SMH88,2,FTC/TDF,DRV/r,,PWLWH,Black,BC,30,,,,,,,,,,,,,,,,,,,,
+18,ERR17389912,Run4_demultiplex.bc1008--bc1112.hifi_reads.fastq.gz,SMH91_23/6/23,SMH91,1,FTC/TDF,DRV/r,36,PWLWH,Black,BA,20,3,2,0,Y,39.9,PLCS,Y,N,Bronchiectasis,619,Y,Inhalers,No,No,No,68,162,25.91,2600,Alive
+17,ERR17389912,Run4_demultiplex.bc1008--bc1112.hifi_reads.fastq.gz,SMH91_31/7/23,SMH91,2,FTC/TDF,DRV/r,,PWLWH,Black,BA,26,,,,,,,,,,,,,,,,,,,,
+21,ERR17389914,Run4_demultiplex.bc1012--bc1083.hifi_reads.fastq.gz,SMH92_31/7/23,SMH92,1,NA,NA,19,PWWH,Black,BC,17,1,0,0,Y,40.1,ECS,Y,FD,N,NA,N,NA,No,No,No,62,166,22.5,3350,Alive
+20,ERR17389914,Run4_demultiplex.bc1012--bc1083.hifi_reads.fastq.gz,SMH92_28/9/23,SMH92,2,NA,NA,,PWWH,Black,BC,25,,,,,,,,,,,,,,,,,,,,
+24,ERR17389915,Run4_demultiplex.bc1012--bc1098.hifi_reads.fastq.gz,SMH93_27/9/23,SMH93,1,NA,NA,40,PWWH,Black,BA,21,7,3,0,Y,39.4,V,N,NA,NA,NA,NA,N,NA,Yes,No,98,175,32,3435,Alive
+D2_266,ERR17389915,Run4_demultiplex.bc1012--bc1098.hifi_reads.fastq.gz,SMH93_29/11/23,SMH93,2,NA,NA,,PWWH,Black,BA,30,,,,,,,,,,,,,,,,,,,,
+25,ERR17389916,Run4_demultiplex.bc1012--bc1100.hifi_reads.fastq.gz,SMH94_9/10/23,SMH94,1,NA,NA,22,PWWH,Black,BC,25,2,1,0,Y,37.1,V,Y,Short cervicx+cerclage,N,NA,N,NA,No,No,No,53,162,20.2,2910,Alive
+26,ERR17389916,Run4_demultiplex.bc1012--bc1100.hifi_reads.fastq.gz,SMH94_3/11/23,SMH94,2,NA,NA,,PWWH,Black,BC,29,,,,,,,,,,,,,,,,,,,,
+27,ERR17389918,Run4_demultiplex.bc1012--bc1105.hifi_reads.fastq.gz,SMH95_30/10/23,SMH95,1,NA,NA,42,PWWH,Black,BA,21,2,0,2,Y,38.7,ECS,Y,FTP,Hypertension (Preg induced),NA,NA,N,NA,No,No,95,165,34.89,3340,Alive
+29,ERR17389918,Run4_demultiplex.bc1012--bc1105.hifi_reads.fastq.gz,SMH95_13/12/23,SMH95,2,NA,NA,,PWWH,Black,BA,27,,,,,,,,,,,,,,,,,,,,
+35,ERR17389921,Run4_demultiplex.bc1015--bc1096.hifi_reads.fastq.gz,SMH96swab_11/10/23,SMH96,1,NA,NA,22,PWWH,Black,Mixed,21,4,3,0,Y,38.9,ECS,Y,FD,N,NA,NA,N,NA,Yes,No,77,168,27.28,2900,Alive
+36,ERR17389921,Run4_demultiplex.bc1015--bc1096.hifi_reads.fastq.gz,SMH96swab_4/12/23,SMH96,2,NA,NA,,PWWH,Black,Mixed,28,,,,,,,,,,,,,,,,,,,,
+37,ERR17389923,Run4_demultiplex.bc1015--bc1100.hifi_reads.fastq.gz,SMH97swab_27/9/23,SMH97,1,NA,NA,30,PWWH,Black,BC,23,5,3,1,Y,38.1,V,N,NA,NA,NA,N,NA,No,No,No,73,165,26.81,2980,Alive
+38,ERR17389923,Run4_demultiplex.bc1015--bc1100.hifi_reads.fastq.gz,SMH97swab_11/12/23,SMH97,2,NA,NA,,PWWH,Black,BC,34,,,,,,,,,,,,,,,,,,,,
