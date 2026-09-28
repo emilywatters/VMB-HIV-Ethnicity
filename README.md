@@ -49,4 +49,4 @@ Outputs:
 
 Data availability of raw sequencing files 
 
-16S rRNA gene sequencing data are deposited in the European Nucleotide Archive (ENA) under accession number PRJEB114705  and are available at:https://www.ebi.ac.uk/ena.
+16S rRNA gene sequencing data are deposited in the European Nucleotide Archive (ENA) under accession number PRJEB114705  and are available at: https://www.ebi.ac.uk/ena.
